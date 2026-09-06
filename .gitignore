@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Backend runtime files
+backend/tmp_audio/
+
+# OS/editor junk
+.DS_Store
+.vscode/
